@@ -1,0 +1,38 @@
+03/10/19,Program started
+03/10/19,Program started
+03/10/19,Program started
+03/10/19,Program started
+03/10/19,Program started
+03/10/19,Started an instance of google finance with GOOG and 30 October 14
+03/10/19,Program started
+03/10/19,Started an instance of google finance with GOOG and 30 October 2014
+03/10/19,Program started
+03/10/19,Started an instance of google finance with GOOG and 30 October 2014
+03/10/19,Program done
+03/10/19,Program started
+03/10/19,Started an instance of google finance with GOOG and time.struct_time(tm_year=2014, tm_mon=10, tm_mday=30, tm_hour=0, tm_min=0, tm_sec=0, tm_wday=3, tm_yday=303, tm_isdst=-1)
+03/10/19,Program done
+03/10/19,Program started
+03/10/19,Started an instance of google finance with GOOG and time.struct_time(tm_year=2014, tm_mon=10, tm_mday=30, tm_hour=0, tm_min=0, tm_sec=0, tm_wday=3, tm_yday=303, tm_isdst=-1)
+03/10/19,Program started
+03/10/19,Started an instance of google finance with GOOG and 2014-10-30
+03/10/19,Program done
+03/10/19,Program started
+03/10/19,Started an instance of google finance with GOOG and 2014-10-30
+03/10/19,Program started
+03/10/19,Started an instance of google finance with GOOG and 2014-10-30
+03/10/19,Program done
+03/10/19,Program started
+03/10/19,Started an instance of google finance with GOOG and 2014-10-30
+03/10/19,Program started
+03/10/19,Started an instance of google finance with GOOG and 2014-10-30
+03/10/19,Program done
+03/10/19,Program started
+03/10/19,Started an instance of google finance with GOOG and 2014-10-30
+03/10/19,Program done
+03/10/19,Program started
+03/10/19,Started an instance of google finance with GOOG and 2014-10-30
+03/10/19,http://www.google.com/finance/historical?q=GOOG&startdate=2014-10-30&enddate=2019-03-10&output=csv
+03/24/19,Program started
+03/24/19,Started an instance of google finance with GOOG and 2014-10-30
+03/24/19,http://www.google.com/finance/historical?q=GOOG&startdate=2014-10-30&enddate=2019-03-24&output=csv
